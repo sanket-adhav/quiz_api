@@ -4,7 +4,7 @@ A simple backend API for creating and taking quizzes using FastAPI and SQLite.
 
 ---
 
-## Features:
+## Features::
 
 ### Quiz Management
 
