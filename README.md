@@ -19,7 +19,7 @@ A simple backend API for creating and taking quizzes using FastAPI and SQLite.
 
 ### Tech Stack
 
-- Python 3.13
+- Python 3.13.
 - FastAPI
 - SQLAlchemy
 - SQLite (for database)
