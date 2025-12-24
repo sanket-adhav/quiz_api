@@ -32,7 +32,7 @@ A simple backend API for creating and taking quizzes using FastAPI and SQLite.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/sanket-adhav/quiz_api.git>
 cd quiz_api
 ```
 
